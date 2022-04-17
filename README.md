@@ -1,5 +1,5 @@
 
-# Machine-Learning_HandwrittenDigitRecognition
+# Machine Learning - Handwritten Digit Recognition
 ### by Remy Zhang
 ## About The Project
 
