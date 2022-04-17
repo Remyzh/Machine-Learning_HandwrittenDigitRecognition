@@ -1,4 +1,5 @@
 # Machine-Learning_HandwrittenDigitRecognition
+# by Remy Zhang
 Purpose:
 A machine learning program which is able to recognize and predict handwritten digits to a 98% accuracy. Includes a pygame drawing pad where you can manually draw digits, and have real time digit prediction!
 
